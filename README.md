@@ -26,5 +26,5 @@ Are you working on an interesting project? Have you had a major technical breakt
 - 3:40 - 3:45 pm: [Add: Your name + LinkedIn link, your presentation title]
 
 **Wednesday, November 18**
-- 11:30 - 11:35 am: [Add: Your name + LinkedIn link, your presentation title]
+- 11:30 - 11:35 am: Simon Bernard ([LinkedIn](https://www.linkedin.com/in/besimon)), "Solving one bottleneck at a time: what a year of AI adoption actually changed"
 - 2:30 - 2:35 pm: [Add: Your name + LinkedIn link, your presentation title]
